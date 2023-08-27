@@ -1,6 +1,12 @@
 # interHacktive_2023
 
-## Tools Used
+### Idea
 
-## Challenges we faced
+### Built With
 
+### Challenges we faced
+
+### Further Plans
+
+## License
+Distributed under the Apache-2.0 lisence
