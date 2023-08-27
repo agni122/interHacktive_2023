@@ -3,6 +3,7 @@
 ### Idea
 
 ### Built With
+Html, CSS, Js, VS Code, Git
 
 ### Challenges we faced
 
